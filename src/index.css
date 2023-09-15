@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+.model-box {
+    background: #cbcbfb;
+    margin-bottom: 1%;
+    padding: 20px
+}
+
+.model-main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.model-cont {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f0ff
+}

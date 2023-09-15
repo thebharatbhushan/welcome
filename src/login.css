@@ -1,0 +1,25 @@
+.logDiv {
+    padding: 105px;
+    float: center;
+}
+#LogHead {
+    color: blue;
+    
+}
+#LogCont {
+    border-radius: 10px;
+}
+ #logBtn {
+    background: #f00;
+    color: #fff;
+    border-radius: 10px;
+    height: 25px;
+    width: 70px;
+    margin-top: 2%;
+    align-items: center;
+ }
+
+ #logBtn:hover {
+    background: blue;
+    transition: 0.5s;
+ }

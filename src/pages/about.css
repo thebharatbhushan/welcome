@@ -1,0 +1,13 @@
+
+    .about-head {
+        display: flex;
+        justify-content: center;
+    }
+    .about-us {
+        display: flex;
+        position: relative;
+        height: auto;
+        width: 50%;
+        text-align: center;
+        padding: 0 0 2% 25%;
+    }

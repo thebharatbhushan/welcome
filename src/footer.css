@@ -1,0 +1,15 @@
+.footer-main {
+    background-color: rgb(24, 24, 24);
+    padding: 15px;
+    position: absolute;
+    text-align: center;
+    width: 99%;
+
+}
+
+.copyright {
+    color: #fff;
+}
+
+.author-name {
+    color: #ff0}

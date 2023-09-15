@@ -1,0 +1,21 @@
+.Menu {
+  background: #fd0650;
+  color: #fff;
+  padding: 15px;
+  width: 100%
+  
+}
+
+.sub-menu a{
+  padding: 20px;
+  pointer-events: all;
+  color: #fff;
+  text-decoration: none;
+}
+
+.sub-menu a:hover {
+  padding: 20px;
+  pointer-events:all;
+  color: #ffe600
+}
+
