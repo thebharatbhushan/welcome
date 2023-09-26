@@ -1,10 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import ReactDOM from "react-dom/client";
-import Message from "./message";
-import Contact from "./contact";
 import Menu from "./menu";
 import Footer from "./footer";
-import Home from "./pages/home";
 import "./index.css";
 
 

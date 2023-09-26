@@ -1,21 +1,24 @@
-.Menu {
+/* .Menu {
   background: #fd0650;
   color: #fff;
-  padding: 15px;
-  width: 100%
-  
+  width: auto;
+  height: 30px;
 }
 
 .sub-menu a{
-  padding: 20px;
-  pointer-events: all;
-  color: #fff;
+  position: relative;
   text-decoration: none;
+  color: #fff;
+  margin-top: 20%;
 }
+
+.sub-menu {
+  pointer-events: auto;
+  padding: 15px;
+}
+
 
 .sub-menu a:hover {
-  padding: 20px;
-  pointer-events:all;
   color: #ffe600
 }
-
+ */
